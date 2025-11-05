@@ -15,5 +15,5 @@
 - [View SQL Queries](https://github.com/SimplyKenton/steam-game-success-analysis/blob/main/queries.sql)
 
 ## Contact
-- LinkedIn: [Your LinkedIn]
-- Email: [Your Email]
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/kenton-mcdonald-951663205/)
+- Email: [Your Email](Kenton.McDonald95@gmail.com)
