@@ -1,5 +1,10 @@
 # Kenton McDonald - Data Analyst Portfolio
 
+## About Me
+Operations professional transitioning to data analytics with a proven track record of identifying cost-saving opportunities through data-driven insights. Currently pursuing Data Analytics degree at WGU while applying analytical skills to real business challenges.
+
+**What drives me:** Turning operational inefficiencies into measurable business improvements through data analysis.
+
 ## Projects
 
 ### Jersey Mike's Operational Analysis
