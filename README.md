@@ -8,6 +8,7 @@ Operations professional transitioning to data analytics with a proven track reco
 ## Projects
 
 ### Jersey Mike's Operational Analysis
+- **Challenge:** Identify labor inefficiencies costing the business money 
 - **Impact:** Identified $3,960 in annual cost savings
 - **Tools:** SQL, Excel, Tableau
 - [View Analysis](https://github.com/SimplyKenton/jersey-mikes-operations-analysis/blob/main/Operational-Performance-Analysis.pdf)
@@ -22,3 +23,7 @@ Operations professional transitioning to data analytics with a proven track reco
 ## Contact
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/kenton-mcdonald-951663205/)
 - Email: [Your Email](Kenton.McDonald95@gmail.com)
+
+
+
+
